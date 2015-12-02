@@ -1,0 +1,132 @@
+{"modules":[
+  {
+    "modulnr": "CS1017",
+    "name": "Algorithmen und Datenstrukturen",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS2012",
+    "name": "Android-Praktikum: Anwendungsentwicklung",
+    "crp": 9
+  },
+  {
+    "modulnr": "CS3006",
+    "name": "Bachelorarbeit mit Kolloquium",
+    "crp": 15
+  },
+  {
+    "modulnr": "CS1022",
+    "name": "Betriebssysteme",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS1019",
+    "name": "Compilerbau",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS1020",
+    "name": "Datenbanksysteme",
+    "crp": 6
+  },
+  {
+    "modulnr": "MN1007",
+    "name": "Diskrete Mathematik",
+    "crp": 6
+  },
+  {
+    "modulnr": "BA1004",
+    "name": "DV-orientierte Betriebswirtschaftslehre",
+    "crp": 3
+  },
+  {
+    "modulnr": "CS2018",
+    "name": "Entwicklung mobiler Applikationen",
+    "crp": 9
+  },
+  {
+    "modulnr": "CS1014",
+    "name": "Grundlagen der Informatik",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS1025",
+    "name": "Hauptseminar",
+    "crp": 3
+  },
+  {
+    "modulnr": "CS1024",
+    "name": "Internetbasierte Systeme",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS1018",
+    "name": "Konzepte systemnaher Programmierung",
+    "crp": 6
+  },
+  {
+    "modulnr": "MN1009",
+    "name": "Lineare Algebra",
+    "crp": 6
+  },
+  {
+    "modulnr": "MN1008",
+    "name": "Naturwissenschaftliche und technische Grundlagen",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS1013",
+    "name": "Objektorientierte Programmierung",
+    "crp": 6
+  },
+  {
+    "modulnr": "SK1006",
+    "name": "Präsentationstechniken",
+    "crp": 3
+  },
+  {
+    "modulnr": "CS1016",
+    "name": "Programmierung interaktiver Systeme",
+    "crp": 6
+  },
+  {
+    "modulnr": "BA1005",
+    "name": "Projektmanagement",
+    "crp": 3
+  },
+  {
+    "modulnr": "CS3004",
+    "name": "Projektphase",
+    "crp": 12
+  },
+  {
+    "modulnr": "CS3005",
+    "name": "Projektseminar",
+    "crp": 3
+  },
+  {
+    "modulnr": "CS1015",
+    "name": "Rechnernetze und ihre Anwendung",
+    "crp": 6
+  },
+  {
+    "modulnr": "SK1005",
+    "name": "Recht für Informatiker",
+    "crp": 3
+  },
+  {
+    "modulnr": "CS1021",
+    "name": "Softwaretechnik",
+    "crp": 6
+  },
+  {
+    "modulnr": "CS1023",
+    "name": "Softwaretechnik-Projekt",
+    "crp": 9
+  },
+  {
+    "modulnr": "MN1010",
+    "name": "Stochastik",
+    "crp": 6
+  }
+]}
