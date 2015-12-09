@@ -382,3 +382,8 @@ Disallow: /
 User-agent: *
 Disallow: /cgi-bin/
 Disallow: /mail/
+Disallow: /mapp/
+Disallow: /contao/
+Disallow: /joomla/
+Disallow: /typo/
+Disallow: /wordpress/
